@@ -4,6 +4,8 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
+  all text on this website is false: 
+  the beginning of the end and the end of the beginning: 
 My name is Inigo Montoya. I have the following qualities:
 
 - I rock a great mustache

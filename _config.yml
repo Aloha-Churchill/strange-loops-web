@@ -20,7 +20,9 @@ author: Aloha Churchill
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  begin (or middle or end) here: "aboutme"
+  bloggity blog: "blog"
+  projects: "projects"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
