@@ -9,6 +9,9 @@
 # --- Required options --- #
 ############################
 
+
+
+
 # Name of website
 title: Strange Loops
 
@@ -20,13 +23,25 @@ author: Aloha Churchill
 ###############################################
 
 navbar-links:
-  begin (or middle or end) here: "aboutme"
-  bloggity blog: "blog"
-  projects: "projects"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Bloggity Blog: "blog"
+  Projects: "projects"
+  About: 
+    aboutme: "aboutme"
+    Beautiful Jekyll: "https://beautifuljekyll.com"
+    Learn markdown: "https://www.markdowntutorial.com/"
+
+# navbar-links:
+#   Home: ""
+#   # Begin: "aboutme"
+#     # - Begin:
+#     # - Middle:
+#     # - End:
+#   Bloggity Blog: "blog"
+#   Projects: "projects"
+#   About: "aboutme"
+#     - Beautiful Jekyll: "https://beautifuljekyll.com"
+#     - Learn markdown: "https://www.markdowntutorial.com/"
+
 
 ################
 # --- Logo --- #
@@ -52,38 +67,16 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "churchill.aloha@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
-#  medium: yourname
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
-#  discord: "invite_code" or "users/userid" or "invite/invite_code" 
-#  kaggle: yourname
-#  hackerrank: yourname
-#  gitlab: yourname
+  github: Aloha-Churchill
+  twitter: "@Aloha_Churchill"
+  youtube: "@strange-loops"
+  linkedin: "https://www.linkedin.com/in/aloha-churchill-1b09b21a8/"
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Strange Loops RSS Feed
 
 ###########################
 # --- General options --- #
@@ -91,14 +84,14 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
+  github: true
+  youtube: true
   twitter: true
-  facebook: true
   linkedin: true
-  vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+# url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -253,7 +246,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "America/Denver"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
@@ -288,11 +281,13 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
-
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
 
