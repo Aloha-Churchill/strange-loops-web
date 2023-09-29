@@ -2,8 +2,8 @@
 layout: post
 title:  Trying to build a better intuition for logarithmic and exponential functions
 subtitle: Rabbits and compounding interest and the natural log oh my!
-cover-img: /assets/img/trees.jpg
-thumbnail-img: /assets/img/sir.png
+cover-img: /assets/img/logarithms/trees.jpg
+thumbnail-img: /assets/img/logarithms/thumb.jpg
 tags: [math]
 ---
 
@@ -11,7 +11,7 @@ tags: [math]
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="../assets/img/rabbit.jpg" width="500"/>
+    <img src="../assets/img/logarithms/rabbit.jpg" width="500"/>
     <p>Rabbit population dynamics are commonly modeled with logarithms</p>
 </div>
 </div>
@@ -85,7 +85,7 @@ Summary
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="../assets/img/tweet0.png" width="500"/>
+    <img src="../assets/img/logarithms/tweet0.png" width="500"/>
     <p>Question Tweet</p>
 </div>
 </div>

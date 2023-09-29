@@ -2,9 +2,9 @@
 layout: post
 title: The Mobius strip of life
 subtitle: A beginning of an end and an end of a beginning 
-cover-img: /assets/img/mount.jpg
-thumbnail-img: /assets/img/mobiusart.jpg
-# share-img: /assets/img/path.jpg
+cover-img: /assets/img/strangeloops/mount.jpg
+thumbnail-img: /assets/img/strangeloops/mobiusart.jpg
+# share-img: /assets/img/strangeloops/path.jpg
 tags: [math]
 ---
 
@@ -66,7 +66,7 @@ And off ```i``` sails, going up and up and, you guessed it, up. But a curious th
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="../assets/img/UnsignedWheel.png" width="500"/>
+    <img src="../assets/img/strangeloops/UnsignedWheel.png" width="500"/>
     <p>Unsigned integer overflow</p>
 </div>
 </div>
@@ -77,11 +77,11 @@ Here, a loop which was supposed to construct a monotonically increasing sequence
 
 <div style="display: flex; justify-content: center; text-align: center;">
     <div class="image" style="display: inline-block; margin-right: 20px;">
-        <img src="../assets/img/artworks-000484723125-lxkye9-t500x500.jpg" width="500"/>
+        <img src="../assets/img/strangeloops/artworks-000484723125-lxkye9-t500x500.jpg" width="500"/>
         <p>Ascending and Descending</p>
     </div>
     <div class="image" style="display: inline-block;">
-        <img src="../assets/img/download.jpg" width="500"/>
+        <img src="../assets/img/strangeloops/download.jpg" width="500"/>
         <p>Relativity</p>
     </div>
 </div>
@@ -90,7 +90,7 @@ Here, a loop which was supposed to construct a monotonically increasing sequence
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="../assets/img/waterfall.gif" width="500"/>
+    <img src="../assets/img/strangeloops/waterfall.gif" width="500"/>
     <p>Or perhaps a water-rise?</p>
 </div>
 </div>
@@ -111,7 +111,7 @@ It's hard to say if topological shapes like the Mobius strip or [Klein bottle](h
 
 <div style="display: flex; justify-content: center; text-align: center;">
     <div class="image" style="display: inline-block; margin-right: 20px;">
-        <img src="../assets/img/klein.jpg" width="500"/>
+        <img src="../assets/img/strangeloops/klein.jpg" width="500"/>
         <p>Klein Bottle</p>
     </div>
 </div>
@@ -122,15 +122,15 @@ I originally had "boostraping and compilers", "recursive AI learning", and a few
 
 <div style="display: flex; justify-content: center; text-align: center;">
     <div class="image" style="display: inline-block; margin-right: 20px;">
-        <img src="../assets/img/Bagels-4.jpg" width="500"/>
+        <img src="../assets/img/strangeloops/Bagels-4.jpg" width="500"/>
         <p>We all thought sliced bread was good until this toroidal beauty came into the picture (search term here was "topological bread")</p>
     </div>
     <div class="image" style="display: inline-block; margin-right: 20px;">
-        <img src="../assets/img/rabbitclock.png" width="500"/>
+        <img src="../assets/img/strangeloops/rabbitclock.png" width="500"/>
         <p>Even time, which seems like the last thing that should be playing with the spooky world of loops is represented as a circle.</p>
     </div>
      <div class="image" style="display: inline-block;">
-        <img src="../assets/img/camshaft.jpg" width="500"/>
+        <img src="../assets/img/strangeloops/camshaft.jpg" width="500"/>
         <p>A cam shaft converts piston motion to circular motion so that a car can drive forward.</p>
     </div>
      
@@ -142,7 +142,7 @@ Now for a deviation in the topic of loops -- branding. As well as being a place 
 
 <div style="display: flex; justify-content: center; text-align: center;">
     <div class="image" style="display: inline-block; margin-right: 20px;">
-        <img src="../assets/img/mcdonalds.jpg" width="500"/>
+        <img src="../assets/img/strangeloops/mcdonalds.jpg" width="500"/>
         <p>I'm lovin' it</p>
     </div>
 </div>
