@@ -23,6 +23,7 @@ author: Aloha Churchill
 navbar-links:
   Bloggity Blog: "blog"
   Projects: "projects"
+  whoami: "aboutme"
 
 ################
 # --- Logo --- #
