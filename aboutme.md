@@ -1,7 +1,6 @@
 ---
-layout: home
-title: $ whoami
-subtitle: 
+layout: post
+title: /> whoami
 ---
 
 ## Contact Information
