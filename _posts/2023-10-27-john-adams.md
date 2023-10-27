@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Seasons in Colorado
-subtitle: A sketch
+title: John Adams
+subtitle: "Defeat appears to me preferable to total inaction" ~ John Adams
 cover-img: /assets/img/adams/cover.jpg
 thumbnail-img: /assets/img/adams/thumb.jpg
 tags: [writing, nature]
