@@ -1,10 +1,10 @@
 ---
 layout: post
 title: John Adams
-subtitle: "Defeat appears to me preferable to total inaction" ~ John Adams
+subtitle: Defeat appears to me preferable to total inaction -- J.A.
 cover-img: /assets/img/adams/cover.jpg
 thumbnail-img: /assets/img/adams/thumb.jpg
-tags: [writing, nature]
+tags: [writing, history]
 ---
 
 ## Intro
