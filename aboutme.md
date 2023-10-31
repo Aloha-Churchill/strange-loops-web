@@ -1,6 +1,6 @@
 ---
 layout: post
-title: `whoami`
+title: About
 ---
 
 ## `ifconfig`
@@ -45,31 +45,31 @@ Blurry ones on sale for 500.
 
 <div style="display: flex; justify-content: center; text-align: center;">
     <div class="image" style="display: inline-block; margin-right: 20px;">
-        <img src="./assets/img/BASE/IMG_2059.jpg" width="500"/>
+        <img src="assets/img/BASE/IMG_2059.jpg" width="500"/>
         <p></p>
     </div>
     <div class="image" style="display: inline-block;">
-        <img src="./assets/img/BASE/IMG_8804.jpg" width="500"/>
+        <img src="assets/img/BASE/IMG_8804.jpg" width="500"/>
         <p></p>
     </div>
 </div>
 <div style="display: flex; justify-content: center; text-align: center;">
     <div class="image" style="display: inline-block; margin-right: 20px;">
-        <img src="./assets/img/BASE/IMG_6351-EDIT.jpg" width="500"/>
+        <img src="assets/img/BASE/IMG_6351-EDIT.jpg" width="500"/>
         <p></p>
     </div>
     <div class="image" style="display: inline-block;">
-        <img src="./assets/img/BASE/IMG_8903.jpg" width="500"/>
+        <img src="assets/img/BASE/IMG_8903.jpg" width="500"/>
         <p></p>
     </div>
 </div>
 <div style="display: flex; justify-content: center; text-align: center;">
     <div class="image" style="display: inline-block; margin-right: 20px;">
-        <img src="./assets/img/BASE/IMG_8978.JPG" width="500"/>
+        <img src="assets/img/BASE/IMG_8978.JPG" width="500"/>
         <p></p>
     </div>
     <div class="image" style="display: inline-block;">
-        <img src="./assets/img/BASE/IMG_8878.jpg" width="500"/>
+        <img src="assets/img/BASE/IMG_8878.jpg" width="500"/>
         <p></p>
     </div>
 </div>
