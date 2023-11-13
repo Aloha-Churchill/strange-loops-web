@@ -29,7 +29,7 @@ navbar-links:
 # --- Logo --- #
 ################
 
-avatar: "/assets/img/BASE/penrose-triangle.jpg"
+avatar: "/assets/img/BASE/strange-loops-logo.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
