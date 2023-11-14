@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: About
 ---
 
@@ -55,40 +55,15 @@ lo: flags = <UP, LOOPBACK, RUNNING>
 
 > “Two rights don't equal a left.” ~ BFG
 
-> “Two rights don't equal a left.”
-
 > “I cannot for the life of me understand why small children take so long to grow up. I think they do it deliberately, just to annoy me.” ~ Roald Dahl, Matilda
 
 ## Images are worth 1000 words
 Blurry ones on sale for 500. 
 
 <div style="display: flex; justify-content: center; text-align: center;">
-    <div class="image" style="display: inline-block; margin-right: 20px;">
-        <img src="assets/img/BASE/IMG_2059.jpg" width="500"/>
-        <p></p>
-    </div>
-    <div class="image" style="display: inline-block;">
-        <img src="assets/img/BASE/IMG_8804.jpg" width="500"/>
-        <p></p>
-    </div>
+ <div class="image">
+    <img src="./assets/img/BASE/IMG_6351-EDIT.jpg" width="500"/>
+    <p>Perspective</p>
 </div>
-<div style="display: flex; justify-content: center; text-align: center;">
-    <div class="image" style="display: inline-block; margin-right: 20px;">
-        <img src="assets/img/BASE/IMG_6351-EDIT.jpg" width="500"/>
-        <p></p>
-    </div>
-    <div class="image" style="display: inline-block;">
-        <img src="assets/img/BASE/IMG_8903.jpg" width="500"/>
-        <p></p>
-    </div>
 </div>
-<div style="display: flex; justify-content: center; text-align: center;">
-    <div class="image" style="display: inline-block; margin-right: 20px;">
-        <img src="assets/img/BASE/IMG_8978.JPG" width="500"/>
-        <p></p>
-    </div>
-    <div class="image" style="display: inline-block;">
-        <img src="assets/img/BASE/IMG_8878.jpg" width="500"/>
-        <p></p>
-    </div>
-</div>
+
