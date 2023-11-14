@@ -60,10 +60,4 @@ lo: flags = <UP, LOOPBACK, RUNNING>
 ## Images are worth 1000 words
 Blurry ones on sale for 500. 
 
-<div style="display: flex; justify-content: center; text-align: center;">
- <div class="image">
-    <img src="./assets/img/BASE/IMG_6351-EDIT.jpg" width="500"/>
-    <p>Perspective</p>
-</div>
-</div>
-
+![perspective](./assets/img/BASE/IMG_6351-EDIT.jpg)
