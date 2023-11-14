@@ -60,11 +60,8 @@ lo: flags = <UP, LOOPBACK, RUNNING>
 ## Images are worth 1000 words
 Blurry ones on sale for 500. 
 
-![perspective](./assets/img/BASE/IMG_6351-EDIT.jpg)
 
-
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./assets/img/BASE/ori.jpg">  blah |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
+| | |
+|:-------------------------:|:-------------------------:|
+| ![img](./assets/img/BASE/avatar-icon.png) |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./assets/img/BASE/IMG_6351-EDIT.jpg">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="h./assets/img/BASE/IMG_6351-EDIT.jpg">|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./assets/img/BASE/IMG_6351-EDIT.jpg">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="./assets/img/BASE/IMG_6351-EDIT.jpg">|
