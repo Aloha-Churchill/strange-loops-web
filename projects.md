@@ -1,7 +1,6 @@
 ---
 layout: home
 title: Projects
-subtitle: 
+subtitle: here and there
 ---
 
-https://github.com/Aloha-Churchill
