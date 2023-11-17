@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: project_home
 title: Projects
 subtitle: here and there
 ---
-
+<!-- 
 <h1>Projects</h1>
 <ul>
   {% for project in site.projects %}
@@ -12,4 +12,4 @@ subtitle: here and there
     <p>{{ project.excerpt }}</p>
   </li>
   {% endfor %}
-</ul>
+</ul> -->
