@@ -231,6 +231,14 @@ paginate: 5
 kramdown:
   input: GFM
 
+collections:
+  posts:
+    output: true
+    permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
+
 # Default YAML values (more information on Jekyll's site). Add project values here
 defaults:
   -
