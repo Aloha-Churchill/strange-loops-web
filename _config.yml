@@ -246,7 +246,7 @@ defaults:
       path: ""
       type: "projects"
     values:
-      layout: "project"
+      layout: "post"
   -
     scope:
       path: "" # any file that's not a post will be a "page" layout by default
