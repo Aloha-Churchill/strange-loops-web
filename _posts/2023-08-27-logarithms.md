@@ -9,9 +9,14 @@ tags: [math]
 
 # Logarithms
 
+
+![image](../assets/img/adams/book.jpg)
+
+yoyoyo
+
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="{{../assets/img/logarithms/rabbit.jpg | relative_url }}" width="500"/>
+    <img src="{{/assets/img/logarithms/rabbit.jpg | relative_url }}" width="500"/>
     <p>rabbit population dynamics are commonly modeled with logarithms</p>
 </div>
 </div>
