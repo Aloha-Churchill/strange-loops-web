@@ -10,7 +10,8 @@ tags: [math]
 # Logarithms
 
 
-![image](../assets/img/adams/book.jpg)
+![image](/assets/img/adams/book.jpg)
+![image](https://www.strangeloops.org/assets/img/logarithms/rabbit.jpg)
 
 yoyoyo
 
