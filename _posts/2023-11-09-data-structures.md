@@ -29,15 +29,17 @@ It's been a while since I've implemented a datastructure from scratch and its th
 Like most datastructures, tries are versatile and many different types of data can be stored in them. However, tries are most fitting for data that share prefixes since only the nodes after the prefix need to be added for words that share a prefix with a string that is already in the set.
 
 ### Time & Space Complexity
-| Complexity       | Trie                             | Binary Search Tree (BST)           |
-|------------------|----------------------------------|------------------------------------|
-| Search           | O(m) - Where 'm' is the key length | O(log n) - On average             |
-|                 |                                    | O(n) - Worst-case (unbalanced)    |
-| Insertion        | O(m)                             | O(log n) - On average             |
-|                 |                                    | O(n) - Worst-case (unbalanced)    |
-| Deletion         | O(m)                             | O(log n) - On average             |
-|                 |                                    | O(n) - Worst-case (unbalanced)    |
-| Space Complexity | O(ALPHABET_SIZE * m * n)         | O(n) - In a balanced BST          |
+
+| Complexity        | Trie                                     | Binary Search Tree (BST)               |
+|-------------------|------------------------------------------|----------------------------------------|
+| Search            | O(m) - Where 'm' is the key length       | O(log n) - On average                  |
+|                   |                                          | O(n) - Worst-case (unbalanced)         |
+| Insertion         | O(m)                                     | O(log n) - On average                  |
+|                   |                                          | O(n) - Worst-case (unbalanced)         |
+| Deletion          | O(m)                                     | O(log n) - On average                  |
+|                   |                                          | O(n) - Worst-case (unbalanced)         |
+| Space Complexity  | O(ALPHABET_SIZE * m * n)                 | O(n) - In a balanced BST               |
+
 
 
 ### Common Use Cases
