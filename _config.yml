@@ -16,6 +16,11 @@ title: Strange Loops
 # Your name to show in the footer
 author: Aloha Churchill
 
+
+# URL of website
+url: "https://www.strangeloops.org"
+baseurl: "/blog/"
+
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################

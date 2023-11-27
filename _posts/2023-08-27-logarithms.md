@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  trying to build a better intuition for logarithmic and exponential functions
-subtitle: rabbits and compounding interest and the natural log oh my!
+title:  Trying to build a better intuition for logarithmic and exponential functions
+subtitle: Rabbits and compounding interest and the natural log oh my!
 cover-img: /assets/img/logarithms/trees.jpg
 thumbnail-img: /assets/img/logarithms/thumb.jpg
 tags: [math]
@@ -16,7 +16,7 @@ tags: [math]
 </div>
 </div>
 
-from chipping away slowly at Richard Hamming's book, *The Art of Doing Science and Engineering*, one motif is the importance of understanding the fundamentals of math. Choosing the base function for a modeling task is fundamental to understanding the nature of the problem, and I realized the family of logarithms and exponentials was an area where my intuition was weak. The lockdown lectures by YouTube legend Grant Sanderson, the creator of 3Blue1Brown, were a great starting place.
+From chipping away slowly at Richard Hamming's book, *The Art of Doing Science and Engineering*, one motif is the importance of understanding the fundamentals of math. Choosing the base function for a modeling task is fundamental to understanding the nature of the problem, and I realized the family of logarithms and exponentials was an area where my intuition was weak. The lockdown lectures by YouTube legend Grant Sanderson, the creator of 3Blue1Brown, were a great starting place.
 
 ---
 
