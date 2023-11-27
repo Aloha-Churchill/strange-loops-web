@@ -76,6 +76,7 @@ At the time of writing, below is the list of content that I found most informati
 In addition to the content a person consumes from sources out in the ether(net), conversations with people are important in shaping views, learning new things, and developing connections with others through compassion, humor, and companionship. The stuff that I've gotten done this month was spurred by a synthesis of content consumed, conversations, and randomness.
 
 ## Personal Projects: In Progress & Checked
+
 | Project Name      | Done | To Do | Complete? | Effort Level, Enjoyment Level, Learning Level/10 |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | Online Content Database      | strava api integration to see activity, elevation profile histogram, top kudoers       | gcal, youtube, google docs versioning, etc.       | No       | 3,3,5       |
