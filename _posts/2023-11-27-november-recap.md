@@ -77,12 +77,13 @@ In addition to the content a person consumes from sources out in the ether(net),
 
 ## Personal Projects: In Progress & Checked
 
-| Project Name      | Done | To Do | Complete? | Effort Level, Enjoyment Level, Learning Level/10 |
-| ----------- | ----------- | ----------- | ----------- | ----------- |
-| Online Content Database      | strava api integration to see activity, elevation profile histogram, top kudoers       | gcal, youtube, google docs versioning, etc.       | No       | 3,3,5       |
-| Orbit Simulator      | ICC & vehicle kinematics sim, orbit sim      | finish commenting code & push to github       | Nearly       | 7,7,7       |
-| Orbit Sim Youtube Video      | Clips, extra animations, math drawing clips, most voiceovers       | Editing, publish       | Nearly       | 5,7,3       |
-| Strange Loops Blog      |   domain name transfer, projects page setup, Trie and Charts blogs     | fix image issues, fix issues with viewing on different devices      | No       | 5,8,8       |
+| Project Name              | Done                                              | To Do                                          | Complete? | Effort Level, Enjoyment Level, Learning Level/10 |
+|---------------------------|---------------------------------------------------|------------------------------------------------|-----------|-------------------------------------------------|
+| Online Content Database   | strava api integration to see activity, elevation profile histogram, top kudoers | gcal, youtube, google docs versioning, etc.    | No        | 3,3,5                                           |
+| Orbit Simulator           | ICC & vehicle kinematics sim, orbit sim           | finish commenting code & push to github        | Nearly    | 7,7,7                                           |
+| Orbit Sim Youtube Video   | Clips, extra animations, math drawing clips, most voiceovers | Editing, publish                           | Nearly    | 5,7,3                                           |
+| Strange Loops Blog        | domain name transfer, projects page setup, Trie and Charts blogs | fix image issues, fix issues with viewing on different devices | No        | 5,8,8                                           |
+
 
 
 
