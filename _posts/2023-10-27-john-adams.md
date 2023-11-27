@@ -14,7 +14,7 @@ David McCullough's John Adams was a wonderful read. Chronologically presented, i
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="../assets/img/adams/book.jpg" width="500"/>
+    <img src="/assets/img/adams/book.jpg" width="500"/>
 </div>
 </div>
 

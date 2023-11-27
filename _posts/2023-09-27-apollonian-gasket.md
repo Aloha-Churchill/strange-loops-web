@@ -13,7 +13,7 @@ I was browsing Twitter (or X to be trendy...now that Twitter = X, we might as we
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="../assets/img/apollonian/tweet.png" width="500"/>
+    <img src="/assets/img/apollonian/tweet.png" width="500"/>
     <p>Oho, this looks cool</p>
 </div>
 </div>
@@ -35,7 +35,7 @@ Because some things are easier done on paper, here is how I solved the for the r
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="../assets/img/apollonian/Circle.png" width="500"/>
+    <img src="/assets/img/apollonian/Circle.png" width="500"/>
     <p>Solving for radii of circles given centroids</p>
 </div>
 </div>
@@ -45,7 +45,7 @@ But, this aproach had an oversight -- nested circles. I was currently ignoring a
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="../assets/img/apollonian/Circle1.png" width="500"/>
+    <img src="/assets/img/apollonian/Circle1.png" width="500"/>
     <p>Impossible case</p>
 </div>
 </div>
@@ -54,7 +54,7 @@ Different combinations of radii have to be considered in order to fix this probl
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="../assets/img/apollonian/Newcircle.png" width="500"/>
+    <img src="/assets/img/apollonian/Newcircle.png" width="500"/>
     <p>Solving for all radii of circles given centroids</p>
 </div>
 </div>
@@ -63,7 +63,7 @@ There are $3^3=27$ different combinations of matrices to solve, but many do not 
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="../assets/img/apollonian/all_combinations.png" width="500"/>
+    <img src="/assets/img/apollonian/all_combinations.png" width="500"/>
     <p>Radii combinations</p>
 </div>
 </div>
@@ -77,7 +77,7 @@ Coding geometry is not something I'm familiar with, and while I found geometric 
 
 <div style="display: flex; justify-content: center; text-align: center;">
 <div class="image">
-    <img src="../assets/img/apollonian/Hyperbolas.png" width="500"/>
+    <img src="/assets/img/apollonian/Hyperbolas.png" width="500"/>
     <p>Intersecting hyperbolas</p>
 </div>
 </div>
@@ -86,11 +86,11 @@ The thing I love about the method of intersecting hyperbolas is that it leverage
 
 <div style="display: flex; justify-content: center; text-align: center;">
     <div class="image" style="display: inline-block; margin-right: 20px;">
-        <img src="../assets/img/apollonian/soddy_trial1.png" width="500"/>
+        <img src="/assets/img/apollonian/soddy_trial1.png" width="500"/>
         <p>Soddy circles appear in unexpected positions</p>
     </div>
     <div class="image" style="display: inline-block;">
-        <img src="../assets/img/apollonian/soddy_trial2.png" width="500"/>
+        <img src="/assets/img/apollonian/soddy_trial2.png" width="500"/>
         <p>Expected Soddy circle placement</p>
     </div>
 </div>
@@ -103,19 +103,19 @@ The last major step was to generate the recursive circles. I opted to fist find 
 
 <div style="display: flex; justify-content: center; text-align: center; flex-wrap: wrap;">
     <div class="image" style="display: inline-block; margin: 10px;">
-        <img src="../assets/img/apollonian/apollonian.png" width="400"/>
+        <img src="/assets/img/apollonian/apollonian.png" width="400"/>
         <p>Fractal with circles colored by stage generation</p>
     </div>
     <div class="image" style="display: inline-block; margin: 10px;">
-        <img src="../assets/img/apollonian/6stagesradius.png" width="400"/>
+        <img src="/assets/img/apollonian/6stagesradius.png" width="400"/>
         <p>6 stage generation colored by radius</p>
     </div>
     <div class="image" style="display: inline-block; margin: 10px;">
-        <img src="../assets/img/apollonian/6stages.png" width=600"/>
+        <img src="/assets/img/apollonian/6stages.png" width=600"/>
         <p>6 stage colored by generation</p>
     </div>
     <div class="image" style="display: inline-block; margin: 10px;">
-        <img src="../assets/img/apollonian/3d.png" width="400"/>
+        <img src="/assets/img/apollonian/3d.png" width="400"/>
         <p>Spheres based on equilateral tetrahedron</p>
     </div> 
 </div>

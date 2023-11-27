@@ -14,7 +14,7 @@ tags: [math]
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="../assets/img/metcalfe/Metcalfe.png" width="500"/>
+    <img src="/assets/img/metcalfe/Metcalfe.png" width="500"/>
     <p>notes & stuff & things</p>
 </div>
 </div>

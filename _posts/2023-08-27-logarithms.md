@@ -9,12 +9,6 @@ tags: [math]
 
 # Logarithms
 
-
-![image](/assets/img/logarithms/rabbit.jpg)
-
-
-yoyoyo
-
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
     <img src="/assets/img/logarithms/rabbit.jpg" width="500"/>
@@ -92,7 +86,7 @@ summary
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="../assets/img/logarithms/tweet0.png" width="500"/>
+    <img src="/assets/img/logarithms/tweet0.png" width="500"/>
     <p>question tweet</p>
 </div>
 </div>

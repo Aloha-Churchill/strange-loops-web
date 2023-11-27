@@ -15,7 +15,7 @@ A trie is a type of k-ary search tree used for representing a set such that elem
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="../assets/img/datastructure/trie.png" width="500"/>
+    <img src="/assets/img/datastructure/trie.png" width="500"/>
 </div>
 </div>
 
