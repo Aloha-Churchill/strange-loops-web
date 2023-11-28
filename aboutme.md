@@ -6,23 +6,25 @@ title: About
 ## `ifconfig`
 
 World interfaces -- for easy access, links can be found at the bottom of the webpage.
-```
-email: flags = <UP, RUNNING> 
-               churchill.aloha@gmail.com
-
-youtube: flags = <UP, OCCASIONALLY POSTING, WATCHING>
-                 @strange-loops
-
-github: flags = <UP, PULLING, PUSHING>
-                Aloha-Churchill
-
-linkedin: flags = <UP, SEARCHING> 
-                  https://www.linkedin.com/in/aloha-churchill-1b09b21a8/
-
-lo: flags = <UP, LOOPBACK, RUNNING>
-            inet: 127.0.0.1
 
 ```
+email:    flags = <UP, CHECKING, RESPONDING>
+          churchill.aloha@gmail.com
+
+youtube:  flags = <UP, OCCASIONALLY POSTING, WATCHING>
+          @strange-loops
+
+github:   flags = <UP, PULLING, PUSHING, COMMITTING>
+          Aloha-Churchill
+
+linkedin: flags = <UP, SCROLLING>
+          https://www.linkedin.com/in/aloha-churchill-1b09b21a8/
+
+lo:       flags = <UP, LOOPBACK>
+          inet: 127.0.0.1, Boulder, CO
+```
+
+
 
 ## Words of wisdom and amusement
 > "Cauliflower is just cabbage with a college education" ~ Mark Twain
