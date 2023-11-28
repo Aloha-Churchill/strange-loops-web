@@ -57,4 +57,14 @@ lo:       flags = <UP, LOOPBACK>
 
 > “Two rights don't equal a left.” ~ BFG
 
-> “I cannot for the life of me understand why small children take so long to grow up. I think they do it deliberately, just to annoy me.” ~ Roald Dahl, Matilda
+> “I cannot for the life of me understand why small children take so long to grow up. I think they do it deliberately, just to annoy me.” ~ Ms. Trunchbull from Roald Dahl's *Matilda*
+
+> "Only the disciplined ones in life are free. If you are undisciplined, you are a slave to your moods and your passions." ~ Eliud Kipchoge
+
+> "I don't like that man. I must get to know him better." ~ Abraham Lincoln
+
+> “Friendship is one of the distinguishing glorys of man...From this I expect to receive the chief happiness of my future life.” ~ John Adams
+
+> "I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals." ~ Winston Churchill
+
+> “The single story creates stereotypes, and the problem with stereotypes is not that they are untrue, but that they are incomplete. They make one story become the only story.” ~ Chimamanda Ngozi Adichie
