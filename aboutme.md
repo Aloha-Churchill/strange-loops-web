@@ -56,11 +56,3 @@ lo: flags = <UP, LOOPBACK, RUNNING>
 > “Two rights don't equal a left.” ~ BFG
 
 > “I cannot for the life of me understand why small children take so long to grow up. I think they do it deliberately, just to annoy me.” ~ Roald Dahl, Matilda
-
-## An image is worth 1000 words
-Blurry ones on sale for 500. 
-
-| | |
-|:-------------------------:|:-------------------------:|
-| ![img](./assets/img/BASE/IMG_9060.jpg) |  ![img](./assets/img/BASE/IMG_3134.JPG) |
-| ![img](./assets/img/BASE/IMG_6351-EDIT.jpg) |  ![img](./assets/img/BASE/IMG_8952.jpg) |
