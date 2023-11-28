@@ -1,0 +1,46 @@
+Alphabet
+
+A = #FF0000
+B = #FF7F00
+C = #FFFF00
+D = #00FF00
+E = #0000FF
+F = #4B0082
+G = #9400D3
+H = #FF007F
+I = #7F0000
+J = #7F3F00
+K = #7F7F00
+L = #007F00
+M = #007F7F
+N = #00007F
+O = #2F4F4F
+P = #8B0000
+Q = #FF4500
+R = #32CD32
+S = #4169E1
+T = #800080
+U = #FFC0CB
+V = #FFD700
+W = #F0E68C
+X = #E6E6FA
+Y = #FFF0F5
+Z = #3CB371
+Space
+
+Space = #FFFFFF (White)
+Period (.)
+
+Period = #000000 (Black)
+Digits 0-9
+
+0 = #800000
+1 = #808000
+2 = #008080
+3 = #000080
+4 = #800080
+5 = #008000
+6 = #00FFFF
+7 = #0000A0
+8 = #ADD8E6
+9 = #90EE90

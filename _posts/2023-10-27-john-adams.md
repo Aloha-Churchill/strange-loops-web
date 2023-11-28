@@ -2,8 +2,8 @@
 layout: post
 title: John Adams
 subtitle: Defeat appears to me preferable to total inaction -- J.A.
-cover-img: /assets/img/adams/cover.jpg
-thumbnail-img: /assets/img/adams/thumb.jpg
+cover-img: /assets/img/BLOG_COVERS/5.jpeg
+thumbnail-img: /assets/img/BLOG_THUMBNAILS/9_ladybug.jpg
 tags: [writing, history]
 ---
 

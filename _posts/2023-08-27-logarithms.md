@@ -2,8 +2,8 @@
 layout: post
 title:  Trying to build a better intuition for logarithmic and exponential functions
 subtitle: Rabbits and compounding interest and the natural log oh my!
-cover-img: /assets/img/logarithms/trees.jpg
-thumbnail-img: /assets/img/logarithms/thumb.jpg
+cover-img: /assets/img/BLOG_COVERS/M.jpeg
+thumbnail-img: /assets/img/BLOG_THUMBNAILS/1_mouse.jpg
 tags: [math]
 ---
 

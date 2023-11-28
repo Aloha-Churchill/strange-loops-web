@@ -2,8 +2,8 @@
 layout: post
 title: Democracy in America
 subtitle: Alexis de Tocqueville's take on the new kid in town
-cover-img: /assets/img/democracy/cover.jpg
-thumbnail-img: /assets/img/democracy/thumb.jpg
+cover-img: /assets/img/BLOG_COVERS/T.jpeg
+thumbnail-img: /assets/img/BLOG_THUMBNAILS/8_frog.jpg
 tags: [writing, history]
 ---
 

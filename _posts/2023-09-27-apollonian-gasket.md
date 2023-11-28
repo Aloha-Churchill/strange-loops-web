@@ -2,8 +2,8 @@
 layout: post
 title: Tinkering around with the Apollonian Gasket
 subtitle: Fractals are the covergirl of mathematics
-cover-img: /assets/img/apollonian/cover.png
-thumbnail-img: /assets/img/apollonian/thumb.jpg
+cover-img: /assets/img/BLOG_COVERS/R.jpeg
+thumbnail-img: /assets/img/BLOG_THUMBNAILS/3_butterfly.jpg
 tags: [math]
 ---
 

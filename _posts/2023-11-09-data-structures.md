@@ -2,8 +2,8 @@
 layout: post
 title: Do or do not, there is no Trie
 subtitle: A datastructure disturbance in the force
-cover-img: /assets/img/datastructure/cover.jpg
-thumbnail-img: /assets/img/datastructure/thumb.jpg
+cover-img: /assets/img/BLOG_COVERS/I.jpeg
+thumbnail-img: /assets/img/BLOG_THUMBNAILS/10_narwhale.jpg
 tags: [computer science, math]
 ---
 

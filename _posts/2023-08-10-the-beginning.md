@@ -2,9 +2,8 @@
 layout: post
 title: The Mobius strip of life
 subtitle: A beginning of an end and an end of a beginning 
-cover-img: /assets/img/strangeloops/mount.jpg
-thumbnail-img: /assets/img/strangeloops/mobiusart.jpg
-# share-img: /assets/img/strangeloops/path.jpg
+cover-img: /assets/img/BLOG_COVERS/8.jpeg
+thumbnail-img: /assets/img/BLOG_THUMBNAILS/0_rosette.jpg
 tags: [math]
 ---
 

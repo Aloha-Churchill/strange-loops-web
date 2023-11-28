@@ -2,8 +2,8 @@
 layout: post
 title: Metcalfe's Law
 subtitle: A little learning 
-cover-img: /assets/img/metcalfe/cover.jpg
-thumbnail-img: /assets/img/metcalfe/thumb.jpg
+cover-img: /assets/img/BLOG_COVERS/O.jpeg
+thumbnail-img: /assets/img/BLOG_THUMBNAILS/5_dove.jpg
 tags: [math]
 ---
 
