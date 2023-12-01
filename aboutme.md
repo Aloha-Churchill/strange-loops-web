@@ -68,3 +68,5 @@ lo:       flags = <UP, LOOPBACK>
 > "I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals." ~ Winston Churchill
 
 > “The single story creates stereotypes, and the problem with stereotypes is not that they are untrue, but that they are incomplete. They make one story become the only story.” ~ Chimamanda Ngozi Adichie
+
+> "I would like to say a few words about nudity in the world today. And I, for one am just appalled by it. Why, did you know that underneath their clothing, the entie population of the world is walking around completely naked?" ~ Sam the Eagle from the Muppets
