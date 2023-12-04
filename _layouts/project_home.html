@@ -48,7 +48,7 @@ layout: page
 
       <p class="project-meta">
         {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
-        projected on {{ project.date | date: date_format }}
+         Posted on {{ project.date | date: date_format }}
       </p>
 
       {% if thumbnail != "" %}
