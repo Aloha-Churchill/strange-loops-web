@@ -1,8 +1,6 @@
 ---
 layout: project
 title: Apollonian Gasket
-cover-img: /assets/img/PROJECT_COVERS/project_cover.webp
-thumbnail-img: /assets/img/PROJECT_THUMBNAILS/0_apollonian.png
 tags: [math]
 ---
 # Note
