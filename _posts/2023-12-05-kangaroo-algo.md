@@ -48,7 +48,7 @@ The algorithm terminates either if there is
 I was stumped. The steps at this point honestly made no sense and it was easy to keep losing track of which variables meant what. 
 
 ## circling back
-Nearly always I find the hardest question to answer is not how something works but *why* it works*. However, the *why* is hard to answer without the how so the initial legwork is not for nothing. So how and why do these steps help to solve the DLP? 
+Nearly always I find the hardest question to answer is not how something works but *why* it works [1]. However, the *why* is hard to answer without the how so the initial legwork is not for nothing. So how and why do these steps help to solve the DLP? 
 
 Let's take an example and explain what each step is actually doing.
 
@@ -92,7 +92,7 @@ This time, instead of just keeping track of the total distance, we'll keep track
 When \\(y_j = x_n\\) for some \\(j\\), this means a collision between the "two kangaroos hopping around the group" has been found. Since \\(x_N = \alpha^{b+d}\\) and \\(y_j = \beta \cdot \alpha^{d_j}\\), we can equate these two and dividing by the \\(\alpha\\) term in both sides we have that \\(x = b+d-d_j\\) and the DLP has been solved.
 
 
-*Exceptions to this include lay ups in basketball and complicated board games that my brother enjoys
+[1] Exceptions to this include lay ups in basketball and complicated board games that my brother enjoys
 
 ## building further intuition
 The key idea here is that we are sampling two different paths of exponentiation in the group. The way that the paths are constructed means that if there is a collision, it tells us something about the relationship between \\(\alpha\\) and \\(\beta\\) through exponentiation. Given the data collected through the movement, we then can use it to reconstruct how to get to a solution where \\(\alpha^x = \beta\\). 
