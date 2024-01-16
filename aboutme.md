@@ -33,6 +33,10 @@ lo:       flags = <UP, LOOPBACK>
 
 > “I was gratified to be able to answer promptly, and I did. I said I didn’t know.” ~ Mark Twain
 
+> "Kermit, could I do indoor running of the bulls?" ~ Gonzo the Great
+
+> "The bulls are out of control! Who could've forseen this?!" ~ Gonzo the Great  
+
 > "When you meet chimps you meet individual personalities" ~ Jane Goodall
 
 > "There is no good or bad, but thinking makes it so" ~ Shakespeare
@@ -65,8 +69,10 @@ lo:       flags = <UP, LOOPBACK>
 
 > “Friendship is one of the distinguishing glorys of man...From this I expect to receive the chief happiness of my future life.” ~ John Adams
 
-> "I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals." ~ Winston Churchill
-
 > “The single story creates stereotypes, and the problem with stereotypes is not that they are untrue, but that they are incomplete. They make one story become the only story.” ~ Chimamanda Ngozi Adichie
 
 > "I would like to say a few words about nudity in the world today. And I, for one am just appalled by it. Why, did you know that underneath their clothing, the entie population of the world is walking around completely naked?" ~ Sam the Eagle from the Muppets
+
+> "Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?" ~ Albus Dumbledore
+
+> "That's no moon" ~ Obi Wan Kenobi
