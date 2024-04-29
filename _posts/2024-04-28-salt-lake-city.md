@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Twenty-Twenty-Three
-subtitle: sudo apt-get install 2024
-cover-img: /assets/img/BLOG_COVERS/G.jpeg
+title: Salt Lake City
+subtitle: some stray notes that are neither here nor there
+cover-img: /assets/img/BLOG_COVERS/8.jpeg
 thumbnail-img: /assets/img/BLOG_THUMBNAILS/18_babychick.jpg
 tags: [reflection, writing]
 ---
@@ -24,14 +24,14 @@ While traveling without a car can be a hindrance, it also opens up opportunities
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="/assets/img/slc/" width="500"/>
+    <img src="/assets/img/slc/limes.jpg" width="500"/>
     <p>“Oh look, a squeeze of Limes!”</p>
 </div>
 </div>
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="/assets/img/slc/" width="500"/>
+    <img src="/assets/img/slc/transitmap.png" width="500"/>
     <p>Modest, but effective SLC transit system</p>
 </div>
 </div>
@@ -117,14 +117,15 @@ I was impressed by SLC’s unique charm. Mid-April turned out to be a beautiful 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
     <img src="/assets/img/slc/flowers.JPEG" width="500"/>
-    <p>Flowers</p>
+    <p>Some delightful flowers</p>
 </div>
 </div>
 
 
 
 ## Sources:
-- https://gis.utah.gov/blog/2019-03-11-the-western-grid/#:~:text=On%20the%20other%20side%20of,feet%20x%20330%20feet%2C%20respectively. 
-- https://www.governing.com/archive/gov-salt-lake-city-extra-wide-streets.html#:~:text=Its%20streets%20are%20too%3A%20At,cities%20should%20look%20and%20feel.
-- https://www.governing.com/archive/car-ownership-numbers-of-vehicles-by-city-map.html
-- https://www.deseret.com/indepth/2023/12/14/23962305/chronically-homeless-salt-lake-city/
+- [western grid](https://gis.utah.gov/blog/2019-03-11-the-western-grid/#:~:text=On%20the%20other%20side%20of,feet%20x%20330%20feet%2C%20respectively)
+- [slc streets](https://www.governing.com/archive/gov-salt-lake-city-extra-wide-streets.html#:~:text=Its%20streets%20are%20too%3A%20At,cities%20should%20look%20and%20feel)
+- [car ownership](https://www.governing.com/archive/car-ownership-numbers-of-vehicles-by-city-map.html)
+- [homelessness](https://www.deseret.com/indepth/2023/12/14/23962305/chronically-homeless-salt-lake-city/)
+- [slc wiki](https://en.wikipedia.org/wiki/Salt_Lake_City)
