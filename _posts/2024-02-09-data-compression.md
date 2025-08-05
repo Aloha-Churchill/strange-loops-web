@@ -2,7 +2,7 @@
 layout: post
 title: Discovering Data Cmpresn
 subtitle: Or how we can store War and Peace on a device smaller than Tolstoy's pinky toe 
-cover-img: /assets/img/BLOG_COVERS/A.jpeg
+cover-img: /assets/img/BLOG_COVERS/cover.jpg
 thumbnail-img: /assets/img/BLOG_THUMBNAILS/16_crow.jpg
 tags: [math, computer science]
 ---

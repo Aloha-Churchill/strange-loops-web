@@ -2,7 +2,7 @@
 layout: post
 title: November Report
 subtitle: Reflection on learning, new ideas, and questions to investigate
-cover-img: /assets/img/BLOG_COVERS/L.jpeg
+cover-img: /assets/img/BLOG_COVERS/cover.jpg
 thumbnail-img: /assets/img/BLOG_THUMBNAILS/12_cat.jpg
 tags: [reflection, writing]
 ---

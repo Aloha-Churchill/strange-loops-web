@@ -2,7 +2,7 @@
 layout: post
 title: Salt Lake City
 subtitle: some stray notes that are neither here nor there
-cover-img: /assets/img/BLOG_COVERS/8.jpeg
+cover-img: /assets/img/BLOG_COVERS/cover.jpg
 thumbnail-img: /assets/img/BLOG_THUMBNAILS/18_babychick.jpg
 tags: [reflection, writing]
 ---

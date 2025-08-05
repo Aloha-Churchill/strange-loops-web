@@ -24,7 +24,7 @@ author: Aloha Churchill
 navbar-links:
   Blog: "blog"
   Projects: "projects"
-  whoami: "aboutme"
+  About: "aboutme"
 
 ################
 # --- Logo --- #

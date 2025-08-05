@@ -2,7 +2,7 @@
 layout: post
 title: Lorentz Contraction
 subtitle: hmmmmmmmmmmmmmmmmm hmmmm  
-cover-img: /assets/img/BLOG_COVERS/O.jpeg
+cover-img: /assets/img/BLOG_COVERS/cover.jpg
 thumbnail-img: /assets/img/BLOG_THUMBNAILS/13_star.jpg
 tags: [physics, math]
 ---

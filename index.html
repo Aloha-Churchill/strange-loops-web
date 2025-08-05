@@ -1,34 +1,161 @@
 ---
-layout: home
+layout: page
 title: Strange Loops
 subtitle: An exploration of ideas: from tiny to large, orderly to chaotic, and linear to nonlinear.
 ---
 
 <style>
-  .welcome-text {
-    color: darkslategray;
-    border: 1px solid rgb(255, 127, 193); /* Light border around the text */
-    padding-bottom: 20px; /* Padding under the text */
-    padding-left: 20px; /* Padding to the left of the text */
-    padding-right: 20px; /* Padding to the right of the text */
-    background-color: rgba(255, 127, 193, 0.144);
+  .hero-section {
+    position: relative;
+    min-height: 100vh;
+    background-image: url('./assets/img/BASE/ori.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    /* Full-bleed background while keeping text centered */
+    margin-left: calc(-50vw + 50%);
+    margin-right: calc(-50vw + 50%);
+    width: 100vw;
+    box-sizing: border-box;
   }
 
-  .welcome-image {
-    padding-top: 20px; /* Padding above the image */
+  .hero-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(
+      135deg, 
+      rgba(0, 0, 0, 0.4) 0%, 
+      rgba(28, 91, 112, 0.3) 50%, 
+      rgba(255, 127, 193, 0.2) 100%
+    );
+  }
+
+  .welcome-content {
+    position: relative;
+    z-index: 2;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 60px 40px;
+    text-align: center;
+  }
+
+  .welcome-title {
+    color: white;
+    font-size: 3.5rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.7);
+    letter-spacing: 2px;
+  }
+
+  .welcome-divider {
+    width: 120px;
+    height: 4px;
+    background: linear-gradient(90deg, rgb(255, 127, 193), rgb(28, 91, 112));
+    margin: 20px auto;
+    border-radius: 2px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+  }
+
+  .welcome-text {
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(10px);
+    border: 2px solid rgba(255, 127, 193, 0.6);
+    border-radius: 20px;
+    padding: 40px;
+    margin: 30px 0;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+    color: #2c3e50;
+    font-size: 1.2rem;
+    line-height: 1.8;
+  }
+
+  .welcome-text p {
+    margin: 0;
+    font-weight: 400;
+  }
+
+  .emoji-highlight {
+    font-size: 1.4em;
+    display: inline-block;
+    animation: bounce 2s infinite;
+  }
+
+  @keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+      transform: translateY(0);
+    }
+    40% {
+      transform: translateY(-10px);
+    }
+    60% {
+      transform: translateY(-5px);
+    }
+  }
+
+  body, html {
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+  }
+
+  @media (max-width: 768px) {
+    .hero-section {
+      margin-left: calc(-50vw + 50%);
+      margin-right: calc(-50vw + 50%);
+      width: 100vw;
+    }
+
+    .welcome-content {
+      padding: 40px 20px;
+    }
+
+    .welcome-title {
+      font-size: 2.5rem;
+    }
+
+    .welcome-text {
+      padding: 30px 25px;
+      font-size: 1.1rem;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .hero-section {
+      margin-left: calc(-50vw + 50%);
+      margin-right: calc(-50vw + 50%);
+      width: 100vw;
+    }
+
+    .welcome-title {
+      font-size: 2rem;
+    }
+
+    .welcome-text {
+      padding: 25px 20px;
+      font-size: 1rem;
+    }
   }
 </style>
 
-<div class="text-center">
-    <h1 style="color:rgb(28,91,112)">Welcome to Strange Loops</h1>
-    <hr style="color: pink;"/>
+<div class="hero-section">
+  <div class="hero-overlay"></div>
+
+  <div class="welcome-content">
+    <h1 class="welcome-title">Welcome to Strange Loops</h1>
+    <div class="welcome-divider"></div>
+
     <div class="welcome-text">
       <p>
-        Hello 🐣, and welcome to Strange Loops. You may have arrived here after clicking on a link, or maybe even a few. If time permits, let this site be a pit-stop on your adventures through the internet. On this site, you can find projects and blog posts that I have worked or collaborated on since around about September 2023. My hope is that some of the posts and/or projects could provide some inspiration for fellow hobbyist coders, encoders, or decoders. Enjoy, and have a groovy day!
+        Hello <span class="emoji-highlight">🐣</span>, and welcome to Strange Loops. You may have arrived here after clicking on a link, or maybe even a few. If time permits, let this site be a pit-stop on your adventures through the internet. On this site, you can find projects and blog posts that I have worked or collaborated on since around about September 2023. My hope is that some of the posts and/or projects could provide some inspiration for fellow hobbyist coders, encoders, or decoders. Enjoy, and have a groovy day!
       </p>
     </div>
-    <div class="welcome-image">
-      <img src="./assets/img/BASE/ori.jpg" alt="Not found"/>
-    </div>
-    <hr style="color: pink;"/>
+  </div>
 </div>

@@ -2,7 +2,7 @@
 layout: post
 title: The Development of Singapore ~ 1965-2000
 subtitle: Reading notes on "From Third World to First - The Singapore Story" by Lee Kuan Yew
-cover-img: /assets/img/BLOG_COVERS/8.jpeg
+cover-img: /assets/img/BLOG_COVERS/cover.jpg
 thumbnail-img: /assets/img/BLOG_THUMBNAILS/19_lotus.jpg
 tags: [history, economics, politics]
 ---
