@@ -17,11 +17,11 @@ youtube:  flags = <UP, OCCASIONALLY POSTING, WATCHING>
 github:   flags = <UP, PULLING, PUSHING, COMMITTING>
           Aloha-Churchill
 
-linkedin: flags = <UP, SCROLLING>
+linkedin: flags = <UP>
           https://www.linkedin.com/in/aloha-churchill-1b09b21a8/
 
 lo:       flags = <UP, LOOPBACK>
-          inet: 127.0.0.1, Boulder, CO
+          inet: 127.0.0.1, Zurich, Switzerland
 ```
 
 

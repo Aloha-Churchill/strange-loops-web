@@ -21,6 +21,12 @@ subtitle: An exploration of ideas: from tiny to large, orderly to chaotic, and l
     margin-right: calc(-50vw + 50%);
     width: 100vw;
     box-sizing: border-box;
+
+    /* Remove unexpected space */
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+
+
   }
 
   .hero-overlay {
@@ -36,6 +42,12 @@ subtitle: An exploration of ideas: from tiny to large, orderly to chaotic, and l
       rgba(255, 127, 193, 0.2) 100%
     );
   }
+
+  .intro-header {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+
 
   .welcome-content {
     position: relative;
@@ -78,7 +90,7 @@ subtitle: An exploration of ideas: from tiny to large, orderly to chaotic, and l
   }
 
   .welcome-text p {
-    margin: 0;
+    margin: 0 0 1em;
     font-weight: 400;
   }
 
@@ -143,6 +155,21 @@ subtitle: An exploration of ideas: from tiny to large, orderly to chaotic, and l
       font-size: 1rem;
     }
   }
+
+  /* Kill white space injected by Jekyll layout */
+  body > header,
+  body > .page,
+  body > main,
+  body > .wrapper,
+  body > .container,
+  body > .content,
+  main#main,
+  #main-content,
+  .page-content {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+
 </style>
 
 <div class="hero-section">
@@ -154,7 +181,13 @@ subtitle: An exploration of ideas: from tiny to large, orderly to chaotic, and l
 
     <div class="welcome-text">
       <p>
-        Hello <span class="emoji-highlight">🐣</span>, and welcome to Strange Loops. You may have arrived here after clicking on a link, or maybe even a few. If time permits, let this site be a pit-stop on your adventures through the internet. On this site, you can find projects and blog posts that I have worked or collaborated on since around about September 2023. My hope is that some of the posts and/or projects could provide some inspiration for fellow hobbyist coders, encoders, or decoders. Enjoy, and have a groovy day!
+        Hello <span class="emoji-highlight">🐣</span>, and welcome to Strange Loops. You may have arrived here after clicking on a link, or maybe even a few. If time permits, let this site be a pit-stop on your adventures through the internet.
+      </p>
+      <p>
+        Here you can find projects and blog posts that I've worked on or collaborated on since around September 2023. My hope is that some of these posts and projects might provide inspiration for others, while the process of writing them helps me solidify and clarify my thoughts.
+      </p>
+      <p>
+        Enjoy, and have a groovy day!
       </p>
     </div>
   </div>
