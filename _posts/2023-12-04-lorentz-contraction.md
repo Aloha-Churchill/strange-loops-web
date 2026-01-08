@@ -20,7 +20,7 @@ Here's a condensed version of what I gathered from the response -- unfortunatly,
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="/assets/img/lorentz/EandB.png" width="500"/>
+    <img src="{{ site.baseurl }}/assets/img/lorentz/EandB.png" width="500"/>
 </div>
 </div>
 
@@ -29,7 +29,7 @@ Here's a condensed version of what I gathered from the response -- unfortunatly,
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="/assets/img/lorentz/Lorentz.png" width="500"/>
+    <img src="{{ site.baseurl }}/assets/img/lorentz/Lorentz.png" width="500"/>
 </div>
 </div>
 

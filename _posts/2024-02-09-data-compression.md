@@ -16,7 +16,7 @@ Lossless algorithms exploit redundancy. A common technique that’s used in loss
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="/assets/img/data/huffman.png" width="500"/>
+    <img src="{{ site.baseurl }}/assets/img/data/huffman.png" width="500"/>
 </div>
 </div>
 
@@ -36,7 +36,7 @@ So how do we generalize this method? The idea is that each codeword given a set 
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="/assets/img/data/arithmetic.png" width="500"/>
+    <img src="{{ site.baseurl }}/assets/img/data/arithmetic.png" width="500"/>
 </div>
 </div>
 

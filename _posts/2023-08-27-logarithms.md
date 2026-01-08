@@ -11,7 +11,7 @@ tags: [math]
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="/assets/img/logarithms/rabbit.jpg" width="500"/>
+    <img src="{{ site.baseurl }}/assets/img/logarithms/rabbit.jpg" width="500"/>
     <p>rabbit population dynamics are commonly modeled with logarithms</p>
 </div>
 </div>
@@ -86,7 +86,7 @@ summary
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="/assets/img/logarithms/tweet0.png" width="500"/>
+    <img src="{{ site.baseurl }}/assets/img/logarithms/tweet0.png" width="500"/>
     <p>question tweet</p>
 </div>
 </div>

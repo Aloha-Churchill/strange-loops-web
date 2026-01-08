@@ -12,7 +12,7 @@ I had the pleasure of visiting Salt Lake City (SLC) two weekends ago, and took a
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="/assets/img/slc/flyingtoslc.JPEG" width="500"/>
+    <img src="{{ site.baseurl }}/assets/img/slc/flyingtoslc.JPEG" width="500"/>
     <p>Flying into SLC</p>
 </div>
 </div>
@@ -24,14 +24,14 @@ While traveling without a car can be a hindrance, it also opens up opportunities
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="/assets/img/slc/limes.jpg" width="500"/>
+    <img src="{{ site.baseurl }}/assets/img/slc/limes.jpg" width="500"/>
     <p>“Oh look, a squeeze of Limes!”</p>
 </div>
 </div>
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="/assets/img/slc/transitmap.png" width="500"/>
+    <img src="{{ site.baseurl }}/assets/img/slc/transitmap.png" width="500"/>
     <p>Modest, but effective SLC transit system</p>
 </div>
 </div>
@@ -44,14 +44,14 @@ Something that immediately sticks out about SLC is their ginormous block sizes, 
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="/assets/img/slc/westerngrid.png" width="500"/>
+    <img src="{{ site.baseurl }}/assets/img/slc/westerngrid.png" width="500"/>
     <p>Western Grid Samples</p>
 </div>
 </div>
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="/assets/img/slc/widesidewalks.JPEG" width="500"/>
+    <img src="{{ site.baseurl }}/assets/img/slc/widesidewalks.JPEG" width="500"/>
     <p>Wide sidewalk</p>
 </div>
 </div>
@@ -61,11 +61,11 @@ I was curious about the sidewalk length, so here are some additional measurement
 
 <div style="display: flex; justify-content: center; text-align: center;">
     <div class="image" style="display: inline-block; margin-right: 20px;">
-        <img src="/assets/img/slc/sidewalklength.png" width="500"/>
+        <img src="{{ site.baseurl }}/assets/img/slc/sidewalklength.png" width="500"/>
         <p>Sidewalk width of approximately 6 ft</p>
     </div>
      <div class="image" style="display: inline-block;">
-        <img src="/assets/img/slc/roadlength.png" width="500"/>
+        <img src="{{ site.baseurl }}/assets/img/slc/roadlength.png" width="500"/>
         <p>Street width of approximately 95 ft</p>
     </div>
 </div>
@@ -78,11 +78,11 @@ The influence of the religion is also notable in SLC. The Church of Jesus Christ
 
 <div style="display: flex; justify-content: center; text-align: center;">
     <div class="image" style="display: inline-block; margin-right: 20px;">
-        <img src="/assets/img/slc/unitednations.jpg" width="500"/>
+        <img src="{{ site.baseurl }}/assets/img/slc/unitednations.jpg" width="500"/>
         <p>United Nations</p>
     </div>
     <div class="image" style="display: inline-block; margin-right: 20px;">
-        <img src="/assets/img/slc/church.JPEG" width="500"/>
+        <img src="{{ site.baseurl }}/assets/img/slc/church.JPEG" width="500"/>
         <p>Church of Jesus Christ of Latter-day Saints</p>
     </div>
 </div>
@@ -99,11 +99,11 @@ Salt Lake City seems to be both commuter and car friendly. The only caveat here 
 
 <div style="display: flex; justify-content: center; text-align: center;">
     <div class="image" style="display: inline-block; margin-right: 20px;">
-        <img src="/assets/img/slc/bikingsnippet.png" width="500"/>
+        <img src="{{ site.baseurl }}/assets/img/slc/bikingsnippet.png" width="500"/>
         <p>Google Map snip of biking lanes in SLC</p>
     </div>
     <div class="image" style="display: inline-block; margin-right: 20px;">
-        <img src="/assets/img/slc/bikelane.JPEG" width="500"/>
+        <img src="{{ site.baseurl }}/assets/img/slc/bikelane.JPEG" width="500"/>
         <p>Example of bike lane in SLC, I think it could benefit with extra barriers</p>
     </div>
 </div>
@@ -116,7 +116,7 @@ I was impressed by SLC’s unique charm. Mid-April turned out to be a beautiful 
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="/assets/img/slc/flowers.JPEG" width="500"/>
+    <img src="{{ site.baseurl }}/assets/img/slc/flowers.JPEG" width="500"/>
     <p>Some delightful flowers</p>
 </div>
 </div>
