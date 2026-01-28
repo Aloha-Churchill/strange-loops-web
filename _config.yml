@@ -25,6 +25,7 @@ navbar-links:
   Blog: "blog"
   Projects: "projects"
   About: "aboutme"
+  Exciting loops: "excitingloops"
 
 ################
 # --- Logo --- #
@@ -47,9 +48,9 @@ social-network-links:
   email: "churchill.aloha@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: Aloha-Churchill
-  twitter: "@stranger_loops"
   youtube: "@strange-loops"
   linkedin: "aloha-churchill-1b09b21a8"
+
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
@@ -63,7 +64,7 @@ rss-description: Strange Loops RSS Feed
 share-links-active:
   github: true
   youtube: true
-  twitter: true
+  twitter: false
   linkedin: true
 
 # How to display the link to your website in the footer
