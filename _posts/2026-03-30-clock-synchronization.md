@@ -3,7 +3,7 @@ layout: post
 title: What time is it?
 subtitle: An interactive introduction into how computers keep time and synchronize events
 cover-img: /assets/img/BLOG_COVERS/cover.jpg
-thumbnail-img: /assets/img/BLOG_THUMBNAILS/19_lotus.jpg
+thumbnail-img: /assets/img/BLOG_THUMBNAILS/20_arrow.jpg
 tags: [computer science]
 ---
 
