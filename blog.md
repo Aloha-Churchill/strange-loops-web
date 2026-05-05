@@ -1,4 +1,4 @@
 ---
 layout: home
-title: A blog without borders
----
+title: A Blog without Borders
+---  

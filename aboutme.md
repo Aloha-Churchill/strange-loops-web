@@ -3,6 +3,9 @@ layout: page
 title: About
 ---
 
+On this site you can find projects and blog posts that I've worked on or collaborated on since around September 2023. My hope is that some of these posts and projects might provide inspiration for others, while the process of writing them helps me solidify and clarify my thoughts.
+
+
 ## `ifconfig`
 
 World interfaces -- for easy access, links can be found at the bottom of the webpage.
@@ -27,6 +30,7 @@ lo:       flags = <UP, LOOPBACK>
 
 
 ## Words of wisdom and amusement
+
 > "Cauliflower is just cabbage with a college education" ~ Mark Twain
 
 > "Civilization advances by extending the number of important operations which we can perform without thinking of them" ~ Alfred North Whitehead

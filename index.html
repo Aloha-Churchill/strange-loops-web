@@ -35,12 +35,7 @@ subtitle: An exploration of ideas: from tiny to large, orderly to chaotic, and l
     left: 0;
     right: 0;
     bottom: 0;
-    background: linear-gradient(
-      135deg, 
-      rgba(0, 0, 0, 0.4) 0%, 
-      rgba(28, 91, 112, 0.3) 50%, 
-      rgba(255, 127, 193, 0.2) 100%
-    );
+    background: rgba(0, 0, 0, 0.2);
   }
 
   .intro-header {
@@ -54,13 +49,13 @@ subtitle: An exploration of ideas: from tiny to large, orderly to chaotic, and l
     z-index: 2;
     max-width: 800px;
     margin: 0 auto;
-    padding: 60px 40px;
+    padding: 60px 50px;
     text-align: center;
   }
 
   .welcome-title {
     color: white;
-    font-size: 3.5rem;
+    font-size: 2.5rem;
     font-weight: bold;
     margin-bottom: 20px;
     text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.7);
@@ -68,25 +63,25 @@ subtitle: An exploration of ideas: from tiny to large, orderly to chaotic, and l
   }
 
   .welcome-divider {
-    width: 120px;
-    height: 4px;
-    background: linear-gradient(90deg, rgb(255, 127, 193), rgb(28, 91, 112));
+    width: 80px;
+    height: 2px;
+    background: rgba(255, 255, 255, 0.6);
     margin: 20px auto;
-    border-radius: 2px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    border-radius: 1px;
   }
 
   .welcome-text {
-    background: rgba(255, 255, 255, 0.95);
-    backdrop-filter: blur(10px);
-    border: 2px solid rgba(255, 127, 193, 0.6);
-    border-radius: 20px;
-    padding: 40px;
+    background: rgba(90, 113, 133, 0.32);
+    border: none;
+    padding: 24px 32px;
     margin: 30px 0;
-    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
-    color: #2c3e50;
-    font-size: 1.2rem;
-    line-height: 1.8;
+    border-radius: 10px;
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    color: rgba(255, 255, 255, 0.95);
+    font-size: 1.15rem;
+    line-height: 1.85;
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.4);
   }
 
   .welcome-text p {
@@ -95,21 +90,8 @@ subtitle: An exploration of ideas: from tiny to large, orderly to chaotic, and l
   }
 
   .emoji-highlight {
-    font-size: 1.4em;
+    font-size: 1.2em;
     display: inline-block;
-    animation: bounce 2s infinite;
-  }
-
-  @keyframes bounce {
-    0%, 20%, 50%, 80%, 100% {
-      transform: translateY(0);
-    }
-    40% {
-      transform: translateY(-10px);
-    }
-    60% {
-      transform: translateY(-5px);
-    }
   }
 
   body, html {
@@ -126,15 +108,14 @@ subtitle: An exploration of ideas: from tiny to large, orderly to chaotic, and l
     }
 
     .welcome-content {
-      padding: 40px 20px;
+      padding: 40px 24px;
     }
 
     .welcome-title {
-      font-size: 2.5rem;
+      font-size: 2rem;
     }
 
     .welcome-text {
-      padding: 30px 25px;
       font-size: 1.1rem;
     }
   }
@@ -147,11 +128,10 @@ subtitle: An exploration of ideas: from tiny to large, orderly to chaotic, and l
     }
 
     .welcome-title {
-      font-size: 2rem;
+      font-size: 1.75rem;
     }
 
     .welcome-text {
-      padding: 25px 20px;
       font-size: 1rem;
     }
   }
@@ -181,13 +161,7 @@ subtitle: An exploration of ideas: from tiny to large, orderly to chaotic, and l
 
     <div class="welcome-text">
       <p>
-        Hello <span class="emoji-highlight">🐣</span>, and welcome to Strange Loops. You may have arrived here after clicking on a link, or maybe even a few. If time permits, let this site be a pit-stop on your adventures through the internet.
-      </p>
-      <p>
-        Here you can find projects and blog posts that I've worked on or collaborated on since around September 2023. My hope is that some of these posts and projects might provide inspiration for others, while the process of writing them helps me solidify and clarify my thoughts.
-      </p>
-      <p>
-        Enjoy, and have a groovy day!
+        Hello <span class="emoji-highlight">🐣</span> and welcome to Strange Loops. You may have arrived here after clicking on a link, or maybe even a few. If time permits, let this site be a pit-stop on your adventures through the internet.
       </p>
     </div>
   </div>
