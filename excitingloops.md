@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Destination sites!
 ---
 
 ## Delightful bits of the internet
