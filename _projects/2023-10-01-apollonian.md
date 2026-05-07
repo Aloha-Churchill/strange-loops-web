@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Apollonian Gasket
+thumbnail-img: /assets/img/apollonian/Hyperbolas.png
 tags: [math]
 ---
 # Note

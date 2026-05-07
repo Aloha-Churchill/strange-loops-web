@@ -12,3 +12,111 @@
     width: auto;
     max-width: 500px;
 }
+
+/* Project preview — match blog post list styling */
+.project-preview {
+  padding: 1.25rem 0;
+  border-bottom: 1px solid #eee;
+}
+
+@media (min-width: 768px) {
+  .project-preview {
+    padding: 2.1875rem 0;
+  }
+}
+
+.project-preview:last-child {
+  border-bottom: 0;
+}
+
+/* Project preview titles — match blog post title color */
+.project-preview a {
+  text-decoration: none;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #404040;
+}
+
+.project-preview a:focus,
+.project-preview a:hover {
+  text-decoration: none;
+  color: #0085A1;
+}
+
+.project-preview .project-title {
+  font-size: 1.875rem;
+  margin-top: 0;
+}
+
+.project-preview .project-subtitle {
+  margin: 0;
+  font-weight: 300;
+  margin-bottom: 0.625rem;
+}
+
+.project-preview .project-meta {
+  color: #808080;
+  font-size: 1.125rem;
+  font-style: italic;
+  margin: 0 0 0.625rem;
+  font-family: 'Lora', 'Times New Roman', serif;
+}
+
+@media (min-width: 768px) {
+  .project-preview .project-title {
+    font-size: 2.25rem;
+  }
+}
+
+/* Landscape thumbnail images for project previews */
+.project-preview .project-image {
+  float: right;
+  margin-left: 0.625rem;
+  height: 10rem;
+  width: 18rem;
+  overflow: hidden;
+}
+
+.project-preview .project-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.project-preview .project-image-short {
+  margin-top: -2.1875rem;
+}
+
+@media (max-width: 767px) {
+  .project-preview .project-image {
+    height: 8rem;
+    width: 14rem;
+  }
+  .project-preview .project-image-short {
+    margin-top: 0;
+  }
+}
+
+.project-preview .project-image-small {
+  width: 100%;
+  text-align: center;
+  display: none;
+}
+
+.project-preview .project-image-small img {
+  max-width: 14rem;
+  max-height: 8rem;
+  object-fit: cover;
+}
+
+@media (max-width: 500px) {
+  .project-preview .project-image {
+    display: none;
+  }
+  .project-preview .project-image-small {
+    display: block;
+  }
+}
+
+.project-preview .project-read-more {
+  font-weight: 800;
+}
