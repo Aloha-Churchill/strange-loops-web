@@ -1,0 +1,126 @@
+/* Dark mode. Activated by data-theme="dark" on <html> (set by the head script
+   and the toggle button). Loaded after the theme CSS, so these overrides win on
+   specificity without needing !important, except where the theme itself uses it. */
+
+html[data-theme="dark"] body {
+  background-color: #121417;
+  color: #d5d8dc;
+}
+
+/* Links */
+html[data-theme="dark"] a {
+  color: #5cc8e6;
+}
+html[data-theme="dark"] a:hover,
+html[data-theme="dark"] a:focus {
+  color: #8ad9f0;
+}
+
+/* Navbar */
+html[data-theme="dark"] .navbar-custom {
+  background-color: #1a1d22;
+  border-bottom-color: #2a2e34;
+}
+html[data-theme="dark"] nav.navbar-custom.fixed-top {
+  background-color: rgba(26, 29, 34, 0.85);
+  box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.4);
+}
+html[data-theme="dark"] .navbar-custom .navbar-brand,
+html[data-theme="dark"] .navbar-custom .nav-link {
+  color: #e8eaed;
+}
+html[data-theme="dark"] .navbar-custom .nav-link:hover,
+html[data-theme="dark"] .navbar-custom .nav-link:focus {
+  color: #8ad9f0;
+}
+html[data-theme="dark"] .navbar-custom .dropdown-menu {
+  background-color: #1a1d22;
+  border-color: #2a2e34;
+}
+html[data-theme="dark"] .navbar-custom .dropdown-item {
+  color: #d5d8dc;
+}
+html[data-theme="dark"] .navbar-custom .dropdown-item:hover {
+  background-color: #22262c;
+  color: #fff;
+}
+html[data-theme="dark"] .navbar-toggler-icon {
+  filter: invert(1) grayscale(1);
+}
+html[data-theme="dark"] .footer-wave {
+  color: #2a2e34;
+}
+
+/* Headings and titles */
+html[data-theme="dark"] h1,
+html[data-theme="dark"] h2,
+html[data-theme="dark"] h3,
+html[data-theme="dark"] h4,
+html[data-theme="dark"] h5,
+html[data-theme="dark"] h6,
+html[data-theme="dark"] .post-title,
+html[data-theme="dark"] .post-subtitle,
+html[data-theme="dark"] .project-title {
+  color: #e8eaed;
+}
+html[data-theme="dark"] .post-preview a,
+html[data-theme="dark"] .project-preview a {
+  color: #e8eaed;
+}
+html[data-theme="dark"] .post-preview a:hover,
+html[data-theme="dark"] .project-preview a:hover {
+  color: #8ad9f0;
+}
+
+/* Meta / muted text */
+html[data-theme="dark"] .post-meta,
+html[data-theme="dark"] .project-meta,
+html[data-theme="dark"] blockquote {
+  color: #9aa0a6;
+}
+
+/* Separators and borders */
+html[data-theme="dark"] hr,
+html[data-theme="dark"] .post-preview,
+html[data-theme="dark"] .project-preview {
+  border-color: #2a2e34;
+}
+html[data-theme="dark"] blockquote {
+  border-left-color: #2a2e34;
+}
+
+/* Code */
+html[data-theme="dark"] pre,
+html[data-theme="dark"] code {
+  background-color: #1c1f24;
+  color: #e6e6e6;
+  border-color: #2a2e34;
+}
+
+/* Tables */
+html[data-theme="dark"] table,
+html[data-theme="dark"] th,
+html[data-theme="dark"] td {
+  border-color: #2a2e34;
+}
+
+/* Footer (theme uses !important here, so we match it) */
+html[data-theme="dark"] footer {
+  background-color: #1a1d22;
+}
+html[data-theme="dark"] footer,
+html[data-theme="dark"] footer a,
+html[data-theme="dark"] footer p.text-muted {
+  color: #9aa0a6 !important;
+}
+html[data-theme="dark"] footer a:hover {
+  color: #8ad9f0 !important;
+}
+
+/* Search box */
+html[data-theme="dark"] #beautifuljekyll-search-overlay,
+html[data-theme="dark"] input.form-control {
+  background-color: #1c1f24;
+  color: #e8eaed;
+  border-color: #2a2e34;
+}

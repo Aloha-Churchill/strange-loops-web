@@ -12,3 +12,5 @@ ehthumbs.db
 Gemfile.lock
 
 beautiful-jekyll-theme-*.gem
+_unoptimized_backup/
+.jekyll-metadata

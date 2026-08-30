@@ -2,8 +2,6 @@
 layout: post
 title: Lorentz Contraction
 subtitle: hmmmmmmmmmmmmmmmmm hmmmm  
-cover-img: /assets/img/BLOG_COVERS/cover.jpg
-thumbnail-img: /assets/img/BLOG_THUMBNAILS/13_star.jpg
 tags: [physics, math]
 ---
 
@@ -20,7 +18,7 @@ Here's a condensed version of what I gathered from the response -- unfortunatly,
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="{{ site.baseurl }}/assets/img/lorentz/EandB.png" width="500"/>
+    <img src="{{ site.baseurl }}/assets/img/lorentz/EandB.webp" width="500" height="500" loading="lazy" decoding="async"/>
 </div>
 </div>
 
@@ -29,7 +27,7 @@ Here's a condensed version of what I gathered from the response -- unfortunatly,
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="{{ site.baseurl }}/assets/img/lorentz/Lorentz.png" width="500"/>
+    <img src="{{ site.baseurl }}/assets/img/lorentz/Lorentz.webp" width="500" height="707" loading="lazy" decoding="async"/>
 </div>
 </div>
 

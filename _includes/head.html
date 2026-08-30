@@ -2,6 +2,20 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+  <!-- Set the theme before first paint to avoid a flash of the wrong colors. -->
+  <script>
+    (function () {
+      var stored = null;
+      try { stored = localStorage.getItem('theme'); } catch (e) {}
+      var theme = stored || (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+      document.documentElement.setAttribute('data-theme', theme);
+    })();
+  </script>
+
+  <!-- Speed up webfont delivery: open connections to Google Fonts before the CSS requests them. -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
   {% capture title %}
     {%- if page.share-title -%}
       {{ page.share-title | strip_html | xml_escape }}
@@ -149,7 +163,20 @@
     {% endfor %}
   {% endif %}
 
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  {%- comment -%}
+    Only load MathJax on pages that actually use TeX. `page.math: true` forces it;
+    otherwise auto-detect a `$` in the content so posts need no extra front matter.
+  {%- endcomment -%}
+  {% if page.math or page.content contains '$' %}
+  <script>
+    MathJax = {
+      tex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']],
+        displayMath: [['$$', '$$'], ['\\[', '\\]']]
+      }
+    };
+  </script>
   <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  {% endif %}
 
 </head>

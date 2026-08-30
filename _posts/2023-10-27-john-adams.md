@@ -2,8 +2,6 @@
 layout: post
 title: John Adams
 subtitle: Defeat appears to me preferable to total inaction -- J.A.
-cover-img: /assets/img/BLOG_COVERS/cover.jpg
-thumbnail-img: /assets/img/BLOG_THUMBNAILS/9_ladybug.jpg
 tags: [writing, history]
 ---
 
@@ -14,7 +12,7 @@ David McCullough's John Adams was a wonderful read. Chronologically presented, i
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="{{ site.baseurl }}/assets/img/adams/book.jpg" width="500"/>
+    <img src="{{ site.baseurl }}/assets/img/adams/book.webp" width="500" height="751" loading="lazy" decoding="async"/>
 </div>
 </div>
 

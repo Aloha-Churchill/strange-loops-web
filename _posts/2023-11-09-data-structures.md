@@ -2,8 +2,6 @@
 layout: post
 title: Do or do not, there is no Trie
 subtitle: A datastructure disturbance in the force
-cover-img: /assets/img/BLOG_COVERS/cover.jpg
-thumbnail-img: /assets/img/BLOG_THUMBNAILS/10_narwhale.jpg
 tags: [computer science, math]
 ---
 
@@ -15,7 +13,7 @@ A trie is a type of k-ary search tree used for representing a set such that elem
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="{{ site.baseurl }}/assets/img/datastructure/trie.png" width="500"/>
+    <img src="{{ site.baseurl }}/assets/img/datastructure/trie.webp" width="500" height="469" loading="lazy" decoding="async"/>
 </div>
 </div>
 

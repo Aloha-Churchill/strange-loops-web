@@ -2,8 +2,6 @@
 layout: post
 title: Tinkering around with the Apollonian Gasket
 subtitle: Fractals are the covergirl of mathematics
-cover-img: /assets/img/BLOG_COVERS/cover.jpg
-thumbnail-img: /assets/img/BLOG_THUMBNAILS/3_butterfly.jpg
 tags: [math]
 ---
 
@@ -13,7 +11,7 @@ I was browsing Twitter (or X to be trendy...now that Twitter = X, we might as we
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="{{ site.baseurl }}/assets/img/apollonian/tweet.png" width="500"/>
+    <img src="{{ site.baseurl }}/assets/img/apollonian/tweet.webp" width="500" height="379" loading="lazy" decoding="async"/>
     <p>Oho, this looks cool</p>
 </div>
 </div>
@@ -35,7 +33,7 @@ Because some things are easier done on paper, here is how I solved the for the r
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="{{ site.baseurl }}/assets/img/apollonian/Circle.png" width="500"/>
+    <img src="{{ site.baseurl }}/assets/img/apollonian/Circle.webp" width="500" height="747" loading="lazy" decoding="async"/>
     <p>Solving for radii of circles given centroids</p>
 </div>
 </div>
@@ -45,7 +43,7 @@ But, this aproach had an oversight -- nested circles. I was currently ignoring a
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="{{ site.baseurl }}/assets/img/apollonian/Circle1.png" width="500"/>
+    <img src="{{ site.baseurl }}/assets/img/apollonian/Circle1.webp" width="500" height="494" loading="lazy" decoding="async"/>
     <p>Impossible case</p>
 </div>
 </div>
@@ -54,7 +52,7 @@ Different combinations of radii have to be considered in order to fix this probl
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="{{ site.baseurl }}/assets/img/apollonian/Newcircle.png" width="500"/>
+    <img src="{{ site.baseurl }}/assets/img/apollonian/Newcircle.webp" width="500" height="415" loading="lazy" decoding="async"/>
     <p>Solving for all radii of circles given centroids</p>
 </div>
 </div>
@@ -63,7 +61,7 @@ There are $3^3=27$ different combinations of matrices to solve, but many do not 
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="{{ site.baseurl }}/assets/img/apollonian/all_combinations.png" width="500"/>
+    <img src="{{ site.baseurl }}/assets/img/apollonian/all_combinations.webp" width="500" height="285" loading="lazy" decoding="async"/>
     <p>Radii combinations</p>
 </div>
 </div>
@@ -77,7 +75,7 @@ Coding geometry is not something I'm familiar with, and while I found geometric 
 
 <div style="display: flex; justify-content: center; text-align: center;">
 <div class="image">
-    <img src="{{ site.baseurl }}/assets/img/apollonian/Hyperbolas.png" width="500"/>
+    <img src="{{ site.baseurl }}/assets/img/apollonian/Hyperbolas.webp" width="500" height="608" loading="lazy" decoding="async"/>
     <p>Intersecting hyperbolas</p>
 </div>
 </div>
@@ -86,11 +84,11 @@ The thing I love about the method of intersecting hyperbolas is that it leverage
 
 <div style="display: flex; justify-content: center; text-align: center;">
     <div class="image" style="display: inline-block; margin-right: 20px;">
-        <img src="{{ site.baseurl }}/assets/img/apollonian/soddy_trial1.png" width="500"/>
+        <img src="{{ site.baseurl }}/assets/img/apollonian/soddy_trial1.webp" width="500" height="167" loading="lazy" decoding="async"/>
         <p>Soddy circles appear in unexpected positions</p>
     </div>
     <div class="image" style="display: inline-block;">
-        <img src="{{ site.baseurl }}/assets/img/apollonian/soddy_trial2.png" width="500"/>
+        <img src="{{ site.baseurl }}/assets/img/apollonian/soddy_trial2.webp" width="500" height="167" loading="lazy" decoding="async"/>
         <p>Expected Soddy circle placement</p>
     </div>
 </div>
@@ -103,19 +101,19 @@ The last major step was to generate the recursive circles. I opted to fist find 
 
 <div style="display: flex; justify-content: center; text-align: center; flex-wrap: wrap;">
     <div class="image" style="display: inline-block; margin: 10px;">
-        <img src="{{ site.baseurl }}/assets/img/apollonian/apollonian.png" width="400"/>
+        <img src="{{ site.baseurl }}/assets/img/apollonian/apollonian.webp" width="400" height="340" loading="lazy" decoding="async"/>
         <p>Fractal with circles colored by stage generation</p>
     </div>
     <div class="image" style="display: inline-block; margin: 10px;">
-        <img src="{{ site.baseurl }}/assets/img/apollonian/6stagesradius.png" width="400"/>
+        <img src="{{ site.baseurl }}/assets/img/apollonian/6stagesradius.webp" width="400" height="284" loading="lazy" decoding="async"/>
         <p>6 stage generation colored by radius</p>
     </div>
     <div class="image" style="display: inline-block; margin: 10px;">
-        <img src="{{ site.baseurl }}/assets/img/apollonian/6stages.png" width=600"/>
+        <img src="{{ site.baseurl }}/assets/img/apollonian/6stages.webp" width="600" height="312" loading="lazy" decoding="async"/>
         <p>6 stage colored by generation</p>
     </div>
     <div class="image" style="display: inline-block; margin: 10px;">
-        <img src="{{ site.baseurl }}/assets/img/apollonian/3d.png" width="400"/>
+        <img src="{{ site.baseurl }}/assets/img/apollonian/3d.webp" width="400" height="344" loading="lazy" decoding="async"/>
         <p>Spheres based on equilateral tetrahedron</p>
     </div> 
 </div>

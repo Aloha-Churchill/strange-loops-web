@@ -1,0 +1,36 @@
+/* Home page.
+   Loaded only on the home page via the `css:` front matter key, so these
+   overrides are naturally scoped to this page and need no !important. */
+
+/* Let the hero span edge to edge inside the full-width layout. */
+[role="main"].container-fluid { padding: 0; }
+[role="main"].container-fluid > .row { margin: 0; }
+[role="main"].container-fluid > .row > .col { padding: 0; }
+
+/* The home section is this page's header, so hide the theme's empty header band. */
+.intro-header.no-img { display: none; }
+
+.home {
+  position: relative;
+  overflow: hidden;
+  min-height: 100vh; /* the navbar now floats over the hero instead of pushing it down */
+}
+
+/* Sharp, unblurred background photo. */
+.home::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.35)),
+    url('/assets/img/hero/origami-boat.jpg') center / cover no-repeat;
+  z-index: 0;
+}
+
+/* The hero already fills the viewport, so drop the footer's own top
+   margin/padding on this page only — otherwise its near-white background
+   reads as a blank strip between the photo and the footer content. */
+footer {
+  margin-top: 0;
+  padding-top: 0;
+}

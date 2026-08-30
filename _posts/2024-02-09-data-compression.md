@@ -2,8 +2,6 @@
 layout: post
 title: Discovering Data Cmpresn
 subtitle: Or how we can store War and Peace on a device smaller than Tolstoy's pinky toe 
-cover-img: /assets/img/BLOG_COVERS/cover.jpg
-thumbnail-img: /assets/img/BLOG_THUMBNAILS/16_crow.jpg
 tags: [math, computer science]
 ---
 
@@ -16,7 +14,7 @@ Lossless algorithms exploit redundancy. A common technique that’s used in loss
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="{{ site.baseurl }}/assets/img/data/huffman.png" width="500"/>
+    <img src="{{ site.baseurl }}/assets/img/data/huffman.webp" width="500" height="352" loading="lazy" decoding="async"/>
 </div>
 </div>
 
@@ -36,7 +34,7 @@ So how do we generalize this method? The idea is that each codeword given a set 
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="{{ site.baseurl }}/assets/img/data/arithmetic.png" width="500"/>
+    <img src="{{ site.baseurl }}/assets/img/data/arithmetic.webp" width="500" height="750" loading="lazy" decoding="async"/>
 </div>
 </div>
 

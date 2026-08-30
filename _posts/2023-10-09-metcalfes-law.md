@@ -2,8 +2,6 @@
 layout: post
 title: Metcalfe's Law
 subtitle: A little learning 
-cover-img: /assets/img/BLOG_COVERS/cover.jpg
-thumbnail-img: /assets/img/BLOG_THUMBNAILS/5_dove.jpg
 tags: [math]
 ---
 
@@ -14,7 +12,7 @@ tags: [math]
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="{{ site.baseurl }}/assets/img/metcalfe/Metcalfe.png" width="500"/>
+    <img src="{{ site.baseurl }}/assets/img/metcalfe/Metcalfe.webp" width="500" height="557" loading="lazy" decoding="async"/>
     <p>notes & stuff & things</p>
 </div>
 </div>

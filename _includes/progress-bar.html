@@ -1,0 +1,39 @@
+<!-- Lightweight top progress bar: fills on page load, and again while navigating away. No libraries. -->
+<div class="page-progress" id="page-progress" aria-hidden="true"></div>
+<style>
+  .page-progress {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 3px;
+    width: 0;
+    background: #0085A1;
+    z-index: 2000;
+    opacity: 0;
+    transition: width 0.2s ease, opacity 0.3s ease;
+    pointer-events: none;
+  }
+  .page-progress.is-active { opacity: 1; }
+</style>
+<script>
+  (function () {
+    var bar = document.getElementById('page-progress');
+    if (!bar) return;
+    var set = function (w) { bar.style.width = w + '%'; };
+
+    // Page is loading: show near-complete, then finish on full load.
+    bar.classList.add('is-active');
+    set(80);
+    window.addEventListener('load', function () {
+      set(100);
+      setTimeout(function () { bar.classList.remove('is-active'); set(0); }, 300);
+    });
+
+    // Navigating away: restart the bar as feedback.
+    window.addEventListener('beforeunload', function () {
+      bar.classList.add('is-active');
+      set(0);
+      requestAnimationFrame(function () { set(85); });
+    });
+  })();
+</script>

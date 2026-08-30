@@ -3,6 +3,8 @@ layout: page
 title: About
 ---
 
+Hello 🐣 and welcome to Strange Loops. You may have arrived here after clicking on a link, or maybe even a few. If time permits, let this site be a pit-stop on your adventures through the internet.
+
 On this site you can find projects and blog posts that I've worked on or collaborated on since around September 2023. My hope is that some of these posts and projects might provide inspiration for others, while the process of writing them helps me solidify and clarify my thoughts.
 
 

@@ -1,16 +1,43 @@
-.image-gallery {
-    display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap; /* Allows images to wrap to the next line if there isn't enough space */
+/* Floating "popout" navbar — detached from the edges, rounded, elevated with
+   a shadow, and slightly translucent so it reads as a pill floating over
+   whatever's beneath it (the hero photo on the homepage, page content
+   elsewhere) instead of a bar docked flush to the top. */
+nav.navbar-custom.fixed-top {
+  top: 1rem;
+  left: 50%;
+  right: auto;
+  transform: translateX(-50%);
+  width: calc(100% - 2rem);
+  max-width: 100rem;
+  border-radius: 1rem;
+  border-bottom: none;
+  box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.12);
+  background-color: rgba(250, 250, 248, 0.85);
+  -webkit-backdrop-filter: blur(0.625rem);
+  backdrop-filter: blur(0.625rem);
 }
 
-.image-gallery .image {
-    margin: 10px;
+/* Logo + site title side by side in the navbar brand link */
+.navbar-custom .navbar-brand-logo {
+  display: flex;
+  align-items: center;
+  gap: 0.625rem;
 }
 
-.image-gallery img {
-    width: auto;
-    max-width: 500px;
+.navbar-brand-title {
+  font-family: 'Gamja Flower', 'Lora', 'Times New Roman', serif;
+  font-size: 1.5rem;
+  font-weight: 400;
+  white-space: nowrap;
+}
+
+/* Footer wave divider */
+.footer-wave {
+  display: block;
+  width: 100%;
+  height: 0.9rem;
+  color: #DDD6C4;
+  stroke: currentColor;
 }
 
 /* Project preview — match blog post list styling */
@@ -33,13 +60,13 @@
 .project-preview a {
   text-decoration: none;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  color: #404040;
+  color: #2B2A27;
 }
 
 .project-preview a:focus,
 .project-preview a:hover {
   text-decoration: none;
-  color: #0085A1;
+  color: #1C5872;
 }
 
 .project-preview .project-title {
@@ -49,12 +76,13 @@
 
 .project-preview .project-subtitle {
   margin: 0;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
   margin-bottom: 0.625rem;
 }
 
 .project-preview .project-meta {
-  color: #808080;
+  color: #6B6558;
   font-size: 1.125rem;
   font-style: italic;
   margin: 0 0 0.625rem;
@@ -64,56 +92,6 @@
 @media (min-width: 768px) {
   .project-preview .project-title {
     font-size: 2.25rem;
-  }
-}
-
-/* Landscape thumbnail images for project previews */
-.project-preview .project-image {
-  float: right;
-  margin-left: 0.625rem;
-  height: 10rem;
-  width: 18rem;
-  overflow: hidden;
-}
-
-.project-preview .project-image img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-
-.project-preview .project-image-short {
-  margin-top: -2.1875rem;
-}
-
-@media (max-width: 767px) {
-  .project-preview .project-image {
-    height: 8rem;
-    width: 14rem;
-  }
-  .project-preview .project-image-short {
-    margin-top: 0;
-  }
-}
-
-.project-preview .project-image-small {
-  width: 100%;
-  text-align: center;
-  display: none;
-}
-
-.project-preview .project-image-small img {
-  max-width: 14rem;
-  max-height: 8rem;
-  object-fit: cover;
-}
-
-@media (max-width: 500px) {
-  .project-preview .project-image {
-    display: none;
-  }
-  .project-preview .project-image-small {
-    display: block;
   }
 }
 

@@ -2,8 +2,6 @@
 layout: post
 title: Salt Lake City
 subtitle: some stray notes that are neither here nor there
-cover-img: /assets/img/BLOG_COVERS/cover.jpg
-thumbnail-img: /assets/img/BLOG_THUMBNAILS/18_babychick.jpg
 tags: [reflection, writing]
 ---
 
@@ -12,7 +10,7 @@ I had the pleasure of visiting Salt Lake City (SLC) two weekends ago, and took a
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="{{ site.baseurl }}/assets/img/slc/flyingtoslc.JPEG" width="500"/>
+    <img src="{{ site.baseurl }}/assets/img/slc/flyingtoslc.webp" width="500" height="667" loading="lazy" decoding="async"/>
     <p>Flying into SLC</p>
 </div>
 </div>
@@ -24,14 +22,14 @@ While traveling without a car can be a hindrance, it also opens up opportunities
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="{{ site.baseurl }}/assets/img/slc/limes.jpg" width="500"/>
+    <img src="{{ site.baseurl }}/assets/img/slc/limes.webp" width="500" height="281" loading="lazy" decoding="async"/>
     <p>“Oh look, a squeeze of Limes!”</p>
 </div>
 </div>
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="{{ site.baseurl }}/assets/img/slc/transitmap.png" width="500"/>
+    <img src="{{ site.baseurl }}/assets/img/slc/transitmap.webp" width="500" height="239" loading="lazy" decoding="async"/>
     <p>Modest, but effective SLC transit system</p>
 </div>
 </div>
@@ -44,14 +42,14 @@ Something that immediately sticks out about SLC is their ginormous block sizes, 
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="{{ site.baseurl }}/assets/img/slc/westerngrid.png" width="500"/>
+    <img src="{{ site.baseurl }}/assets/img/slc/westerngrid.webp" width="500" height="515" loading="lazy" decoding="async"/>
     <p>Western Grid Samples</p>
 </div>
 </div>
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="{{ site.baseurl }}/assets/img/slc/widesidewalks.JPEG" width="500"/>
+    <img src="{{ site.baseurl }}/assets/img/slc/widesidewalks.webp" width="500" height="667" loading="lazy" decoding="async"/>
     <p>Wide sidewalk</p>
 </div>
 </div>
@@ -61,11 +59,11 @@ I was curious about the sidewalk length, so here are some additional measurement
 
 <div style="display: flex; justify-content: center; text-align: center;">
     <div class="image" style="display: inline-block; margin-right: 20px;">
-        <img src="{{ site.baseurl }}/assets/img/slc/sidewalklength.png" width="500"/>
+        <img src="{{ site.baseurl }}/assets/img/slc/sidewalklength.webp" width="500" height="340" loading="lazy" decoding="async"/>
         <p>Sidewalk width of approximately 6 ft</p>
     </div>
      <div class="image" style="display: inline-block;">
-        <img src="{{ site.baseurl }}/assets/img/slc/roadlength.png" width="500"/>
+        <img src="{{ site.baseurl }}/assets/img/slc/roadlength.webp" width="500" height="222" loading="lazy" decoding="async"/>
         <p>Street width of approximately 95 ft</p>
     </div>
 </div>
@@ -78,11 +76,11 @@ The influence of the religion is also notable in SLC. The Church of Jesus Christ
 
 <div style="display: flex; justify-content: center; text-align: center;">
     <div class="image" style="display: inline-block; margin-right: 20px;">
-        <img src="{{ site.baseurl }}/assets/img/slc/unitednations.jpg" width="500"/>
+        <img src="{{ site.baseurl }}/assets/img/slc/unitednations.webp" width="500" height="281" loading="lazy" decoding="async"/>
         <p>United Nations</p>
     </div>
     <div class="image" style="display: inline-block; margin-right: 20px;">
-        <img src="{{ site.baseurl }}/assets/img/slc/church.JPEG" width="500"/>
+        <img src="{{ site.baseurl }}/assets/img/slc/church.webp" width="500" height="198" loading="lazy" decoding="async"/>
         <p>Church of Jesus Christ of Latter-day Saints</p>
     </div>
 </div>
@@ -99,11 +97,11 @@ Salt Lake City seems to be both commuter and car friendly. The only caveat here 
 
 <div style="display: flex; justify-content: center; text-align: center;">
     <div class="image" style="display: inline-block; margin-right: 20px;">
-        <img src="{{ site.baseurl }}/assets/img/slc/bikingsnippet.png" width="500"/>
+        <img src="{{ site.baseurl }}/assets/img/slc/bikingsnippet.webp" width="500" height="469" loading="lazy" decoding="async"/>
         <p>Google Map snip of biking lanes in SLC</p>
     </div>
     <div class="image" style="display: inline-block; margin-right: 20px;">
-        <img src="{{ site.baseurl }}/assets/img/slc/bikelane.JPEG" width="500"/>
+        <img src="{{ site.baseurl }}/assets/img/slc/bikelane.webp" width="500" height="667" loading="lazy" decoding="async"/>
         <p>Example of bike lane in SLC, I think it could benefit with extra barriers</p>
     </div>
 </div>
@@ -116,7 +114,7 @@ I was impressed by SLC’s unique charm. Mid-April turned out to be a beautiful 
 
 <div style="display: flex; justify-content: center; text-align: center;">
  <div class="image">
-    <img src="{{ site.baseurl }}/assets/img/slc/flowers.JPEG" width="500"/>
+    <img src="{{ site.baseurl }}/assets/img/slc/flowers.webp" width="500" height="667" loading="lazy" decoding="async"/>
     <p>Some delightful flowers</p>
 </div>
 </div>
